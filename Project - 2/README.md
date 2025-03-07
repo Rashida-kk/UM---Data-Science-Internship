@@ -33,9 +33,9 @@ The dataset for this project contains various factors, including:
 ## Tools and Technologies
 
 - **Programming Language**: Python
-- **Libraries**: pandas, numpy, scikit-learn, seaborn, matplotlib, XGBoost, LightGBM, TensorFlow/Keras, SHAP, LIME
-- **Frameworks for Deployment**: Flask, FastAPI, Streamlit, Dash
-- **Visualization Tools**: Tableau, Power BI, or any dashboarding tool f
+- **Libraries**: pandas, numpy, scikit-learn, seaborn, matplotlib
+- **Frameworks for Deployment**:  Streamlit
+- **Visualization Tools**: Power BI
 
 ---
 
